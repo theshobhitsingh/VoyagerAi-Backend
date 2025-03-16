@@ -1,6 +1,6 @@
 # VoyagerAI
 
-**VoyagerAI** is an AI-powered chat application built with the goal of providing users with intelligent conversations, powered by Google Generative AI. The application is designed to help users interact with an AI, save chat history, and maintain a personalized conversation history.
+**VoyagerAI** is an AI-powered chat application built to provide users with intelligent conversations, powered by Google Generative AI. The application is designed to help users interact with an AI, save chat history, and maintain a personalized conversation history.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -181,4 +181,4 @@ CLERK_PUBLISHABLE_KEY: Clerk publishable API key. <br>
 CLERK_SECRET_KEY: Clerk secret API key. <br>
 
 ## Programmer
-This application is designed and developed by me ***Shobhit Singh***.
+This application is designed and developed by me ***Shobhit Singh***
